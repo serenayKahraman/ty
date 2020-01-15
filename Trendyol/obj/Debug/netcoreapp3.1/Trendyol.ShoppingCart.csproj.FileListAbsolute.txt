@@ -1,0 +1,14 @@
+C:\Users\Serenay\Documents\Bağzı İşler\TrendyolCase\Trendyol\obj\Debug\netcoreapp3.1\Trendyol.ShoppingCart.csprojAssemblyReference.cache
+C:\Users\Serenay\Documents\Bağzı İşler\TrendyolCase\Trendyol\obj\Debug\netcoreapp3.1\Trendyol.ShoppingCart.AssemblyInfoInputs.cache
+C:\Users\Serenay\Documents\Bağzı İşler\TrendyolCase\Trendyol\obj\Debug\netcoreapp3.1\Trendyol.ShoppingCart.AssemblyInfo.cs
+C:\Users\Serenay\Documents\Bağzı İşler\TrendyolCase\Trendyol\bin\Debug\netcoreapp3.1\Trendyol.ShoppingCart.exe
+C:\Users\Serenay\Documents\Bağzı İşler\TrendyolCase\Trendyol\bin\Debug\netcoreapp3.1\Trendyol.ShoppingCart.deps.json
+C:\Users\Serenay\Documents\Bağzı İşler\TrendyolCase\Trendyol\bin\Debug\netcoreapp3.1\Trendyol.ShoppingCart.runtimeconfig.json
+C:\Users\Serenay\Documents\Bağzı İşler\TrendyolCase\Trendyol\bin\Debug\netcoreapp3.1\Trendyol.ShoppingCart.runtimeconfig.dev.json
+C:\Users\Serenay\Documents\Bağzı İşler\TrendyolCase\Trendyol\bin\Debug\netcoreapp3.1\Trendyol.ShoppingCart.dll
+C:\Users\Serenay\Documents\Bağzı İşler\TrendyolCase\Trendyol\bin\Debug\netcoreapp3.1\Trendyol.ShoppingCart.pdb
+C:\Users\Serenay\Documents\Bağzı İşler\TrendyolCase\Trendyol\obj\Debug\netcoreapp3.1\Trendyol.ShoppingCart.dll
+C:\Users\Serenay\Documents\Bağzı İşler\TrendyolCase\Trendyol\obj\Debug\netcoreapp3.1\Trendyol.ShoppingCart.pdb
+C:\Users\Serenay\Documents\Bağzı İşler\TrendyolCase\Trendyol\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Serenay\Documents\Bağzı İşler\TrendyolCase\Trendyol\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Serenay\Documents\Bağzı İşler\TrendyolCase\Trendyol\obj\Debug\netcoreapp3.1\Trendyol.ShoppingCart.csproj.CopyComplete
